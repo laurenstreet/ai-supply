@@ -1,12 +1,8 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "AI Overview"
     url: /ai-overview/
+  - title: "Tags"
+    url: /tags/
   - title: "Refs"
     url: /refs/
   - title: "About"
