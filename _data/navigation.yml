@@ -5,6 +5,8 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
+  - title: "AI Overview"
+    url: /ai-overview/
   - title: "Refs"
     url: /refs/
   - title: "About"

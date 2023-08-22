@@ -98,3 +98,6 @@ tag_archive:
 refs:
   type: liquid
   path: /refs/
+ai-overview:
+  type: liquid
+  path: /ai-overview/
