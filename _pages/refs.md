@@ -1,4 +1,6 @@
 ---
+title: "References"
+layout: refs
 permalink: /refs/
-title: "Refs"
+author_profile: true
 ---
