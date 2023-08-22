@@ -96,5 +96,5 @@ tag_archive:
   type: liquid
   path: /tags/
 refs:
-  type: liquic
+  type: liquid
   path: /refs/
