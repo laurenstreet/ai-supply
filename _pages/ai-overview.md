@@ -1,7 +1,14 @@
 ---
 title: "Artificial Intelligence (AI) Overview"
 permalink: /ai-overview/
+date: 2023-08-23
+tags:
+  - overview
 ---
+<!-- ---
+title: "Artificial Intelligence (AI) Overview"
+permalink: /ai-overview/
+--- -->
 
 Some common stories are that the idea of AI began in the 1950s [[1]](https://academic.oup.com/mind/article/LIX/236/433/986238?login=false) [[2]](https://aisb.org.uk/what-is-ai/), or actually long ago as seen in ancient myths [[3]](https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/1848).  
 
