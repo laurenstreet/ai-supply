@@ -36,7 +36,7 @@ ANI and AGI are also commonly broken down into further categories defined by Are
     - Example: Lack of benchmark tests [[9]](https://arxiv.org/abs/2303.11594) but possibly some large language models [[10]](https://arxiv.org/abs/2302.02083)
 4. Self-aware machines
     - Truly AGI
-    - Ability to learn from past events, to understand the desires of other entities and how they can be affected, and the ability to understand themself
+    - Ability to learn from past events, to understand the desires of other entities and how they can be affected, and to understand themself
     - Example: None yet
 
 ## AI Ethics
