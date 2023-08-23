@@ -1,0 +1,19 @@
+main:
+  - title: "AI Overview"
+    url: /ai-overview/
+  - title: "Tags"
+    url: /tags/
+  - title: "Refs"
+    url: /refs/
+  - title: "About"
+    url: /about/
+
+docs:
+  - title: AI
+    children:
+      - title: "AI Overview"
+        url: /ai-overview/
+  - title: Refs
+    children:
+      - title: "AI Overview"
+        url: /refs/
