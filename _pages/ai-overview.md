@@ -7,7 +7,7 @@ Some common stories are that the idea of AI began in the 1950s [[1]](https://aca
 
 AI seems to be defined, more or less, as a program with any human reasoning skills, which encompasses quite a lot.  A common way to break down AI is through a hiercharical representation including the structures within AI [[4]](https://www.datacamp.com/blog/how-to-learn-ai) [[5]](https://realpython.com/python-ai-neural-network/)
 
-![alt text](https://github.com/laurenstreet/ai-supply/assets/images/AI-ML-DL.png "Common representation of AI, DL, and ML")
+![alt text](https://github.com/laurenstreet/ai-supply/blob/main/assets/images/AI-ML-DL.png "Common representation of AI, DL, and ML")
 
 Another common way to categorize AI is by its performance related to humans [[4]](https://www.datacamp.com/blog/how-to-learn-ai) [[6]](https://www.coursera.org/articles/what-is-artificial-intelligence):
 
