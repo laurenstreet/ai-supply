@@ -3,9 +3,9 @@ title: "Acronyms"
 permalink: /acronyms/
 ---
 
-- Artificial Intelligence (AI)
-- Artificial Narrow Intelligence (ANI)
-- Artificial General Intelligence (AGI)
-- Artificial Super Intelligence (ASI)
-- Deep Learning (DL)
-- Machine Learning (ML)
+- AI: Artificial Intelligence
+- ANI: Artificial Narrow Intelligence
+- AGI: Artificial General Intelligence
+- ASI: Artificial Super Intelligence
+- DL: Deep Learning
+- ML: Machine Learning
