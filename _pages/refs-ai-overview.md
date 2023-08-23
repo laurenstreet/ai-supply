@@ -24,8 +24,8 @@ permalink: /refs-ai-overview/
 
 [[10]](https://arxiv.org/abs/2302.02083) Theory of Mind May Have Spontaneously Emerged in Large Language Models, Michal Kosinski (2023)
 
-[[11]](https://www.coursera.org/articles/ai-ethics) "AI Ethics: What It Is and Why It Matters," Coursera (2023)
+[[11]](https://arxiv.org/abs/2305.00944) Poisoning Language Models During Instruction Tuning, Alexander Wan, Eric Wallace, Sheng Shen, and Dan Klein (2023)
 
-[[12]](https://arxiv.org/abs/2305.00944) Poisoning Language Models During Instruction Tuning, Alexander Wan, Eric Wallace, Sheng Shen, and Dan Klein (2023)
+[[12]](https://www.washingtonpost.com/technology/2022/12/09/chatgpt-lensa-ai-ethics/) "A guide to the sticky ethics of fun AI tools," Washington Post (2022)
 
-[[13]](https://www.washingtonpost.com/technology/2022/12/09/chatgpt-lensa-ai-ethics/) "A guide to the sticky ethics of fun AI tools," Washington Post (2022)
+[[13]](https://www.coursera.org/articles/ai-ethics) "AI Ethics: What It Is and Why It Matters," Coursera (2023)
