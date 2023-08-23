@@ -14,12 +14,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: ai-supply
+name: Lauren Street
 email: laurengracestreet@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
   Learning and applying AI algorithms.
+url: "https://laurenstreet.github.io/ai-supply/"
+repository: "laurenstreet/ai-suppy"
 github_username: laurenstreet
 minimal_mistakes_skin: dark
 search: true
+teaser: "/assets/images/space.png"
+logo: "/assets/images/animaparty.png"
 
 # Build settings
 markdown: kramdown
@@ -69,6 +74,17 @@ footer:
       url: "https://github.com/laurenstreet"
 
 defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _pages
   - scope:
       path: "_pages"
@@ -83,6 +99,6 @@ tag_archive:
 refs:
   type: liquid
   path: /refs/
-ai-overview:
-  type: liquid
-  path: /ai-overview/
+#ai-overview:
+#  type: liquid
+#  path: /ai-overview/
