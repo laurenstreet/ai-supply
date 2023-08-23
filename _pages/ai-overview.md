@@ -3,7 +3,7 @@ title: "Artificial Intelligence (AI) Overview"
 permalink: /ai-overview/
 ---
 
-Some common stories are that AI began in the 1950s [[1]](https://academic.oup.com/mind/article/LIX/236/433/986238?login=false) [[2]](https://aisb.org.uk/what-is-ai/), or actually long ago as seen in ancient myths [[3]](https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/1848).  
+Some common stories are that the idea of AI began in the 1950s [[1]](https://academic.oup.com/mind/article/LIX/236/433/986238?login=false) [[2]](https://aisb.org.uk/what-is-ai/), or actually long ago as seen in ancient myths [[3]](https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/1848).  
 
 AI seems to be defined, more or less, as a program with any human reasoning skills, which encompasses quite a lot.  A common way to break down AI is through a hiercharical representation including the structures within AI [[4]](https://www.datacamp.com/blog/how-to-learn-ai) [[5]](https://realpython.com/python-ai-neural-network/)
 
