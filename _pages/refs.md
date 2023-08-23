@@ -22,12 +22,12 @@ permalink: /refs/
 
 [[8]](https://www.coursera.org/articles/types-of-ai) "4 Types of AI: Getting to Know Artificial Intelligence," Coursera (2023)
 
-[[9]](https://arxiv.org/abs/2303.11594) A Review on Machine Theory of Mind, Yuanyuan Mao, Shuang Liu, Pengshuai Zhao, Qin Ni, Xin Lin, and Liang He 
+[[9]](https://arxiv.org/abs/2303.11594) A Review on Machine Theory of Mind, Yuanyuan Mao, Shuang Liu, Pengshuai Zhao, Qin Ni, Xin Lin, and Liang He (2023)
 
-[[10]](https://arxiv.org/abs/2302.02083) Theory of Mind May Have Spontaneously Emerged in Large Language Models, Michal Kosinski
+[[10]](https://arxiv.org/abs/2302.02083) Theory of Mind May Have Spontaneously Emerged in Large Language Models, Michal Kosinski (2023)
 
 [[11]](https://www.coursera.org/articles/ai-ethics) "AI Ethics: What It Is and Why It Matters," Coursera (2023)
 
-[[12]](https://arxiv.org/abs/2305.00944) Poisoning Language Models During Instruction Tuning, Alexander Wan, Eric Wallace, Sheng Shen, and Dan Klein
+[[12]](https://arxiv.org/abs/2305.00944) Poisoning Language Models During Instruction Tuning, Alexander Wan, Eric Wallace, Sheng Shen, and Dan Klein (2023)
 
 [[13]](https://www.washingtonpost.com/technology/2022/12/09/chatgpt-lensa-ai-ethics/) "A guide to the sticky ethics of fun AI tools," Washington Post (2022)
