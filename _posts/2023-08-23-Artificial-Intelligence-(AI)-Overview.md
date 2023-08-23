@@ -17,8 +17,8 @@ AI seems to be defined, more or less, as a program with any human reasoning skil
 Another common way to categorize AI is by its performance related to humans [[4]](https://www.datacamp.com/blog/how-to-learn-ai) [[6]](https://www.coursera.org/articles/what-is-artificial-intelligence):
 
 1. Artificial narrow intelligence (ANI): designed to perform singular tasks, can potentially simulate human behavior based on set of rules but has limited understanding of the world around it 
-2. Artificial general intelligence (AGI): performs tasks on par with a human with the ability to understand the world around them as a human does
-3. Artificial super intelligence (ASI): outperforms human level skills with a superior understanding of the world around them compared to humans
+2. Artificial general intelligence (AGI): performs tasks on par with a human with the ability to understand the world as a human does
+3. Artificial super intelligence (ASI): outperforms human level skills with a superior understanding compared to humans
 
 ANI and AGI are also commonly broken down into further categories defined by Arend Hintze [[7]](https://www.govtech.com/computing/understanding-the-four-types-of-artificial-intelligence.html#:~:text=There%20are%20four%20types%20of,of%20mind%20and%20self%2Dawareness.) [[6]](https://www.coursera.org/articles/what-is-artificial-intelligence) [[8]](https://www.coursera.org/articles/types-of-ai)
 
@@ -26,18 +26,17 @@ ANI and AGI are also commonly broken down into further categories defined by Are
     - Subset of ANI
     - No learning from previous actions, only reacts to stimuli
     - Example: IBM's chess playing AI, Deep Blue, made predictions for next possible moves, but didn't learn from past moves
-
 2. Limited memory machines
     - Subset of ANI
     - Limited ability to learn from past events
-    - Example: Self driving cars use a set of rules (e.g. knowledge of traffic signs, etc.) combined with observations of events in their enviroment (e.g. other cars around) to make decisions (e.g. steering and speed adjustment)
+    - Example: Self driving cars use a set of rules (e.g. knowledge of traffic signs) combined with observations of events in their enviroment (e.g. other cars around) to make decisions (e.g. steering and speed adjustment)
 3. Theory of mind machines
     - Subset of ANI, almost AGI
     - Limited ability to learn from past events as well as to understand the desires of other entities and how they can be affected 
     - Example: Lack of benchmark tests [[9]](https://arxiv.org/abs/2303.11594) but possibly some large language models [[10]](https://arxiv.org/abs/2302.02083)
 4. Self-aware machines
     - Truly AGI
-    - Ability to learn from past events, to understand the desires of other entities and how they can be affected, and the ability to be understand themself
+    - Ability to learn from past events, to understand the desires of other entities and how they can be affected, and the ability to understand themself
     - Example: None yet
 
 ## AI Ethics

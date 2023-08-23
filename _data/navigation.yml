@@ -3,6 +3,8 @@ main:
     url: /ai-overview/
   - title: "Tags"
     url: /tags/
+  - title: "Glossary"
+    url: /gloss/
   - title: "Refs"
     url: /refs/
   - title: "About"
@@ -17,3 +19,9 @@ posts:
     children:
       - title: "AI Overview"
         url: /refs-ai-overview/
+  - title: Glossary
+    children:
+      - title: "Acronyms"
+        url: /acronyms/
+      - title: "Definitions"
+        url: /defs/
