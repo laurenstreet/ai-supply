@@ -26,6 +26,11 @@ search: true
 teaser: "/assets/images/space.png"
 logo: "/assets/images/animaparty.png"
 
+atom_feed:
+  hide: true
+lunr:
+  search_within_pages: true
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -60,12 +65,19 @@ plugins:
 
 author:
   name   : "Lauren Street"
-  avatar : "/assets/images/space.png"
+  avatar : "/assets/images/lulugs.jpg"
   bio    : "I like to learn about AI."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/laurenstreet"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: https://www.linkedin.com/in/lauren-street-836681211/
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: https://www.youtube.com/@anima-party
+      
 
 footer:
   links:
@@ -93,6 +105,18 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "docs"
 
 tag_archive:
   type: liquid
@@ -100,6 +124,3 @@ tag_archive:
 refs:
   type: liquid
   path: /refs/
-#ai-overview:
-#  type: liquid
-#  path: /ai-overview/
