@@ -20,16 +20,17 @@ ANI and AGI are also commonly broken down into further categories defined by Are
 1. Reactive machines
     - Subset of ANI
     - No learning from previous actions, only reacts to stimuli
-    - Example: IBM's chess playing AI, Deep Blue, made predictions for next possible moves, but didn't learn from past moves 
+    - Example: IBM's chess playing AI, Deep Blue, made predictions for next possible moves, but didn't learn from past moves
+
 2. Limited memory machines
     - Subset of ANI
     - Limited ability to learn from past events
     - Example: Self driving cars use a set of rules (e.g. knowledge of traffic signs, etc.) combined with observations of events in their enviroment (e.g. other cars around) to make decisions (e.g. steering and speed adjustment)
-- Theory of mind machines
+3. Theory of mind machines
     - Subset of ANI, almost AGI
     - Limited ability to learn from past events as well as to understand the desires of other entities and how they can be affected 
     - Example: Lack of benchmark tests [[9]](https://arxiv.org/abs/2303.11594) but possibly some large language models [[10]](https://arxiv.org/abs/2302.02083)
-- Self-aware machines
+4. Self-aware machines
     - Truly AGI
     - Ability to learn from past events, to understand the desires of other entities and how they can be affected, and the ability to be understand themself
     - Example: None yet
