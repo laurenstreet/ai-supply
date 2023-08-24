@@ -78,7 +78,6 @@ author:
       icon: "fab fa-fw fa-youtube"
       url: https://www.youtube.com/@anima-party
       
-
 footer:
   links:
     - label: "GitHub"
@@ -113,22 +112,5 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _docs
-  - scope:
-      path: ""
-      type: docs
-    values:
-      layout: single
-      read_time: false
-      author_profile: false
-      share: false
-      comments: false
       sidebar:
-        nav: "docs"
-
-tag_archive:
-  type: liquid
-  path: /tags/
-refs:
-  type: liquid
-  path: /refs/
+        nav: "posts"

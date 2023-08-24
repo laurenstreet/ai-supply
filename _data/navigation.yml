@@ -1,8 +1,6 @@
 main:
   - title: "AI Overview"
     url: /ai-overview/
-  - title: "Tags"
-    url: /tags/
   - title: "Glossary"
     url: /gloss/
   - title: "Refs"
