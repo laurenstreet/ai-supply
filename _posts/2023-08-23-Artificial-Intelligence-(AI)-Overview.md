@@ -10,7 +10,7 @@ Some common stories are that the idea of AI began in the 1950s [[1]](https://aca
 
 ## How intelligent is AI?
 
-AI seems to be defined, more or less, as a program with any human reasoning skills, which encompasses quite a lot.  
+AI seems to be defined, more or less, as a program with any perceived intelligence, which encompasses quite a lot.  
 
 A common way to categorize AI is by its performance related to humans [[4]](https://www.jstor.org/stable/resrep12564):
 
@@ -18,7 +18,7 @@ A common way to categorize AI is by its performance related to humans [[4]](http
 2. Artificial general intelligence (AGI): performs tasks on par with a human with the full range of applicability as humans
 3. Artificial super intelligence (ASI): outperforms human level skills with a superior understanding compared to humans
 
-ANI and AGI are also commonly broken down into further categories defined by Arend Hintze [[5]](https://www.govtech.com/computing/understanding-the-four-types-of-artificial-intelligence.html#:~:text=There%20are%20four%20types%20of,of%20mind%20and%20self%2Dawareness.)
+ANI and AGI are also commonly broken down into further categories as [[5]](https://www.govtech.com/computing/understanding-the-four-types-of-artificial-intelligence.html#:~:text=There%20are%20four%20types%20of,of%20mind%20and%20self%2Dawareness.)
 
 1. Reactive machines
     - Subset of ANI
