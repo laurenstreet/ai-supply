@@ -1,17 +1,8 @@
 main:
   - title: "AI"
-    children:
-      - title: "AI Overview"
-        url: /ai-overview/
-      - title: "NN Overview"
-        url: /nn-overview/
+    url: /ai-overview/
   - title: "Refs"
     url: /refs/
-    children:
-      - title: "AI Overview"
-        url: /refs-ai-overview/
-      - title: "NN Overview"
-        url: /refs-nn-overview/
   - title: "Glossary"
     url: /gloss/
   - title: "About"
