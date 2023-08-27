@@ -5,7 +5,7 @@ permalink: /refs-ai-overview/
 
 [[1]](https://academic.oup.com/mind/article/LIX/236/433/986238?login=false) *Computing Machinery and Intelligence*, A. M. Turing, Mind (1950)
 
-[[2]](https://aisb.org.uk/what-is-ai/) *What is AI?* The Society for the Study of Artificial Intelligence and Simulation of Behavior (2014)
+[[2]](https://aisb.org.uk/what-is-ai/) *What is AI?*, The Society for the Study of Artificial Intelligence and Simulation of Behavior (2014)
 
 [[3]](https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/1848) *A (Very) Brief History of Artificial Intelligence*, Bruce G. Buchanan, AI Magazine (2005)
 
@@ -22,7 +22,7 @@ permalink: /refs-ai-overview/
 
 [[9]](https://arxiv.org/abs/2302.02083) *Theory of Mind May Have Spontaneously Emerged in Large Language Models*, Michal Kosinski, arXiv (2023)
 
-[[10]](https://onlinelibrary.wiley.com/doi/10.1609/aimag.v38i4.2744) *A Standard Model of the Mind: Toward a Common Computational Framework Across Artificial Intelligence, Cognitive Science, Neuroscience, and Robotics*, John E. Laird, Christian Lebiere, Paul S. Rosenbloom, AI Magazine (2017)
+[[10]](https://onlinelibrary.wiley.com/doi/10.1609/aimag.v38i4.2744) *A Standard Model of the Mind: Toward a Common Computational Framework Across Artificial Intelligence, Cognitive Science, Neuroscience, and Robotics*, John E. Laird, Christian Lebiere, and Paul S. Rosenbloom, AI Magazine (2017)
 
 [[11]](https://link.springer.com/article/10.1007/BF02478259) *A logical calculus of the ideas immanent in nervous activity*, McCulloch, W.S. and Pitts, W., Mathematical Biophysics (1943)
 
