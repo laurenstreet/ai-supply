@@ -1,10 +1,19 @@
 main:
-  - title: "AI Overview"
-    url: /ai-overview/
-  - title: "Glossary"
-    url: /gloss/
+  - title: "AI"
+    children:
+      - title: "AI Overview"
+        url: /ai-overview/
+      - title: "NN Overview"
+        url: /nn-overview/
   - title: "Refs"
     url: /refs/
+    children:
+      - title: "AI Overview"
+        url: /refs-ai-overview/
+      - title: "NN Overview"
+        url: /refs-nn-overview/
+  - title: "Glossary"
+    url: /gloss/
   - title: "About"
     url: /about/
 
@@ -13,10 +22,14 @@ posts:
     children:
       - title: "AI Overview"
         url: /ai-overview/
+      - title: "NN Overview"
+        url: /nn-overview/
   - title: Refs
     children:
       - title: "AI Overview"
         url: /refs-ai-overview/
+      - title: "NN Overview"
+        url: /refs-nn-overview/
   - title: Glossary
     children:
       - title: "Acronyms"

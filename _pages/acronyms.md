@@ -9,3 +9,5 @@ permalink: /acronyms/
 - ASI: Artificial Super Intelligence
 - DL: Deep Learning
 - ML: Machine Learning
+- NN: Neural Networks
+- RL: Reinforcement Learning
