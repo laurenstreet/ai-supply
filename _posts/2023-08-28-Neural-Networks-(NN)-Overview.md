@@ -18,7 +18,7 @@ $$ \mathbf{y}_\text{out} = f_{n}(f_{n-1}(...f_2(f_1(\mathbf{y}_\text{in})))) $$
 
 where $$\text{ }n\text{ }$$ is the total number of layers.  To go from one layer to the next, there is a set of network values that describe the weights that transform the output from one layer to the input of the next layer.  The total set of network values is commonly denoted $$\text{ }\mathbf{\theta}\text{ }$$ and can be written as $$\text{ }\mathbf{\theta} = \left( \theta_1, ..., \theta_{n} \right)\text{ }$$.
 
-Consider again the example from the image above.  The input vector has three components $$\text{ }\mathbf{y}_\text{in} = (y_{in,1},y_{in,2},y_{in,3})\text{ }$$, so the input layer has three nodes.  The function evaluation $$\text{ }f(\mathbf{y}_\text{in})\text{ }$$ gives a vector with four components, $$\text{ }\mathbf{y}_{1}\text{ }$$, so the first hidden layer has four nodes, and so on.
+Consider again the example from the image above.  The input vector has three components $$\text{ }\mathbf{y}_\text{in} = (y_{\text{in},1},y_{\text{in},2},y_{\text{in},3})\text{ }$$, so the input layer has three nodes.  The function evaluation $$\text{ }f(\mathbf{y}_\text{in})\text{ }$$ gives a vector with four components, $$\text{ }\mathbf{y}_{1} = (y_{1,1},y_{1,2},y_{1,3},y_{1,4})\text{ }$$, so the first hidden layer has four nodes, and so on.
 
 To go from the input layer to the first hidden layer, the input vector $$\text{ }\mathbf{y}_{in}\text{ }$$ is transformed through,
 
