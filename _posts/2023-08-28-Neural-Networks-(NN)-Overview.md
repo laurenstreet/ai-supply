@@ -22,14 +22,14 @@ Consider again the example from the image above.  The input vector has three com
 
 To go from the input layer to the first hidden layer, the input vector $$\text{ }\mathbf{y}_{in}\text{ }$$ is transformed through,
 
-$$ \begin{align} W_{\mathbf{\theta}_1} &= \begin{pmatrix} W_{\mathbf{\theta}_1}^{1,1} & W_{\mathbf{\theta}_1}^{1,2} & W_{\mathbf{\theta}_1}^{1,3} \\ W_{\mathbf{\theta}_1}^{2,1} & W_{\mathbf{\theta}_1}^{2,2} & W_{\mathbf{\theta}_1}^{2,3} \\ W_{\mathbf{\theta}_1}^{3,1} & W_{\mathbf{\theta}_1}^{3,2} & W_{\mathbf{\theta}_1}^{3,3} \\ W_{\mathbf{\theta}_1}^{4,1} & W_{\mathbf{\theta}_1}^{4,2} & W_{\mathbf{\theta}_1}^{4,3} \end{pmatrix}  \\ \mathbf{y}_{1} &= F_\text{act,1}\left( W_{\mathbf{\theta}_1} \cdot \mathbf{y}_\text{in} \right) \end{align}$$
+$$ \begin{align} W_{\mathbf{\theta}_1} &= \begin{pmatrix} W_{\mathbf{\theta}_1}^{1,1} & W_{\mathbf{\theta}_1}^{1,2} & W_{\mathbf{\theta}_1}^{1,3} \\ W_{\mathbf{\theta}_1}^{2,1} & W_{\mathbf{\theta}_1}^{2,2} & W_{\mathbf{\theta}_1}^{2,3} \\ W_{\mathbf{\theta}_1}^{3,1} & W_{\mathbf{\theta}_1}^{3,2} & W_{\mathbf{\theta}_1}^{3,3} \\ W_{\mathbf{\theta}_1}^{4,1} & W_{\mathbf{\theta}_1}^{4,2} & W_{\mathbf{\theta}_1}^{4,3} \end{pmatrix}  \\ \\ \mathbf{y}_{1} &= F_\text{act,1}\left( W_{\mathbf{\theta}_1} \cdot \mathbf{y}_\text{in} \right) \end{align}$$
 
 Here, $$\text{ }F_\text{act,1}\text{ }$$ is termed an activation function.  There are numerous activation functions that have been tested and used throughout the years.
 
 To go from the first hidden layer to the second hidden layer, the vector $$\text{ }\mathbf{y}_{1}\text{ }$$ is transformed through,
 
-$$ \begin{align} W_{\mathbf{\theta}_2} &= \begin{pmatrix} W_{\mathbf{\theta}_2}^{1,1} & W_{\mathbf{\theta}_2}^{1,2} & W_{\mathbf{\theta}_2}^{1,3} & W_{\mathbf{\theta},2}^{1,4} \\ W_{\mathbf{\theta}_2}^{2,1} & W_{\mathbf{\theta}_2}^{2,2} & W_{\mathbf{\theta}_2}^{2,3} & W_{\mathbf{\theta}_2}^{2,4} \end{pmatrix} \\ \mathbf{y}_{2} &= F_\text{act,2}\left( W_{\mathbf{\theta}_2} \cdot \mathbf{y}_\text{1} \right) \end{align} $$
+$$ \begin{align} W_{\mathbf{\theta}_2} &= \begin{pmatrix} W_{\mathbf{\theta}_2}^{1,1} & W_{\mathbf{\theta}_2}^{1,2} & W_{\mathbf{\theta}_2}^{1,3} & W_{\mathbf{\theta},2}^{1,4} \\ W_{\mathbf{\theta}_2}^{2,1} & W_{\mathbf{\theta}_2}^{2,2} & W_{\mathbf{\theta}_2}^{2,3} & W_{\mathbf{\theta}_2}^{2,4} \end{pmatrix} \\ \\ \mathbf{y}_{2} &= F_\text{act,2}\left( W_{\mathbf{\theta}_2} \cdot \mathbf{y}_\text{1} \right) \end{align} $$
 
 Finally, to go from the second hidden layer to the output layer, the vector $$\text{ }\mathbf{y}_{2}\text{ }$$ is transformed through,
 
-$$ \begin{align} W_{\mathbf{\theta}_3} &= \begin{pmatrix} W_{\mathbf{\theta}_3}^{1,1} & W_{\mathbf{\theta}_3}^{1,2} \\ W_{\mathbf{\theta}_3}^{2,1} & W_{\mathbf{\theta}_3}^{2,2} \end{pmatrix} \\ \mathbf{y}_\text{out} &= F_\text{act,3}\left( W_{\mathbf{\theta}_3} \cdot \mathbf{y}_\text{2} \right) \end{align} $$
+$$ \begin{align} W_{\mathbf{\theta}_3} &= \begin{pmatrix} W_{\mathbf{\theta}_3}^{1,1} & W_{\mathbf{\theta}_3}^{1,2} \\ W_{\mathbf{\theta}_3}^{2,1} & W_{\mathbf{\theta}_3}^{2,2} \end{pmatrix} \\ \\ \mathbf{y}_\text{out} &= F_\text{act,3}\left( W_{\mathbf{\theta}_3} \cdot \mathbf{y}_\text{2} \right) \end{align} $$
