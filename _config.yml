@@ -15,10 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 title: AI Supply
 name: Lauren Street
-email: laurengracestreet@proton.me
+#email: laurengracestreet@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
   Learning and applying AI algorithms.
-url: "https://laurenstreet.github.io/ai-supply/"
+#url: "https://laurenstreet.github.io/ai-supply/"
 #repository: "laurenstreet/ai-suppy"
 #github_username: laurenstreet
 minimal_mistakes_skin: dark

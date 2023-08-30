@@ -1,5 +1,5 @@
 ---
-title: "Contets"
+title: "Contents"
 permalink: /ai-init/
 ---
 
