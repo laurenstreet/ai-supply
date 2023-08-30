@@ -1,5 +1,5 @@
 ---
-title: "References for Neural Networks (NN) Overview"
+title: "References for Neural Network (NN) Overview"
 permalink: /refs-nn-overview/
 ---
 

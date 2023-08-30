@@ -3,6 +3,7 @@ title: "Artificial Intelligence (AI) Overview"
 permalink: /ai-overview/
 date: 2023-08-26
 classes: wide
+last_modified_at: 2023-08-30
 header:
   teaser: https://github.com/laurenstreet/ai-supply/blob/main/assets/images/AI-ML-DL.png?raw=true
 ---

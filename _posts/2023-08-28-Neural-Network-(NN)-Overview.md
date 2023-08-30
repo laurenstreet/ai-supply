@@ -1,8 +1,9 @@
 ---
-title: "Neural Networks (NN) Overview"
+title: "Neural Network (NN) Overview"
 permalink: /nn-overview/
 date: 2023-08-28
 classes: wide
+last_modified_at: 2023-08-30
 header:
   teaser: https://github.com/laurenstreet/ai-supply/blob/main/assets/images/neural-nets.png?raw=true
 ---
