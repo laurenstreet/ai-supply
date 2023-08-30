@@ -15,12 +15,16 @@ posts:
         url: /ai-overview/
       - title: "NN Overview"
         url: /nn-overview/
+      - title: "RL Overview"
+        url: /rl-overview/
   - title: Refs
     children:
       - title: "AI Overview"
         url: /refs-ai-overview/
       - title: "NN Overview"
         url: /refs-nn-overview/
+      - title: "RL Overview"
+        url: /refs-rl-overview/
   - title: Glossary
     children:
       - title: "Acronyms"
