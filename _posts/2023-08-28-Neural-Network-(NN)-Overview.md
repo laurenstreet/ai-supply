@@ -1,5 +1,5 @@
 ---
-title: "Neural Networks (NN) Overview"
+title: "Neural Network (NN) Overview"
 permalink: /nn-overview/
 date: 2023-08-28
 classes: wide

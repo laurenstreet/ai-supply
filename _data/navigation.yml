@@ -1,6 +1,6 @@
 main:
   - title: "AI"
-    url: /ai-overview/
+    url: /ai-init/
   - title: "Refs"
     url: /refs/
   - title: "Glossary"
