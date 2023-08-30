@@ -102,7 +102,7 @@ defaults:
       comments: false
       share: false
       related: true
-      show_date: true
+      show_date: false
       mathjax: true
       sidebar:
         nav: "posts"
