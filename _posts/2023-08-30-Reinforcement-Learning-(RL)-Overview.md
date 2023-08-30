@@ -27,3 +27,7 @@ For RL algorithms that utilize episodic learning, the transition from the initia
 The environments of an RL algorithm typically contain both a state space and the action space, with the state space representing all possible states that can be explored by the agent and the action space representing all possible actions the agent can take.  This is something that has been implemented extensively in the world of RL, with many examples being available in, for example, the environments of the Farama Foundation's Gymnasium [[2]](https://gymnasium.farama.org/).  Many of these environments have been used to test and tune available algorithms in a repository of common RL algorithms, Stable Baselines3 [[3]](https://github.com/DLR-RM/stable-baselines3).
 
 The environment also contains definitions for transforming from one state to another given an input action, and the reward for a given state.  The agent's choice of action is typically based on a probability distribution, found as the output of a neural network.
+
+## References
+
+[See list of all references here](https://laurenstreet.github.io/ai-supply/refs-rl-overview/)
