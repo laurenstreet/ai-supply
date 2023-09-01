@@ -1,5 +1,5 @@
 ---
-title: "References for Reinforcement Learning (RL) Overview"
+title: "References for Reinforcement Learning Overview"
 permalink: /refs-rl-overview/
 ---
 

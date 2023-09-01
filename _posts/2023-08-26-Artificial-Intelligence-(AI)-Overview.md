@@ -1,14 +1,14 @@
 ---
-title: "Artificial Intelligence (AI) Overview"
+title: "Artificial Intelligence Overview"
 permalink: /ai-overview/
 date: 2023-08-26
 classes: wide
-last_modified_at: 2023-08-30
+last_modified_at: 2023-09-01
 header:
   teaser: https://github.com/laurenstreet/ai-supply/blob/main/assets/images/AI-ML-DL.png?raw=true
 ---
 
-Some common stories are that the idea of AI began in the 1950s [[1]](https://academic.oup.com/mind/article/LIX/236/433/986238?login=false) [[2]](https://aisb.org.uk/what-is-ai/), or actually long ago as seen in ancient myths [[3]](https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/1848).  
+Some common stories are that the idea of artificial intelligence (AI) began in the 1950s [[1]](https://academic.oup.com/mind/article/LIX/236/433/986238?login=false) [[2]](https://aisb.org.uk/what-is-ai/), or actually long ago as seen in ancient myths [[3]](https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/1848).
 
 One reason humans strive to create AI is the perception that it will make life easier.  The numerous examples of automatic task performance and complex problem solving performed by AI today is enough evidence to show that this perception is approximately aligned with reality, at least in regards to certain aspects of life.  
 
