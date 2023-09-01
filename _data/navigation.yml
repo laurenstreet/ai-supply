@@ -22,7 +22,7 @@ posts:
   - title: Refs
     children:
       - title: "AI Consciousness"
-        url: /ai-conscious/
+        url: /refs-ai-conscious/
       - title: "AI Overview"
         url: /refs-ai-overview/
       - title: "NN Overview"
