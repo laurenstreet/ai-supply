@@ -11,6 +11,8 @@ main:
 posts:
   - title: AI
     children:
+      - title: "AI Consciousness"
+        url: /ai-conscious/
       - title: "AI Overview"
         url: /ai-overview/
       - title: "NN Overview"
@@ -19,6 +21,8 @@ posts:
         url: /rl-overview/
   - title: Refs
     children:
+      - title: "AI Consciousness"
+        url: /ai-conscious/
       - title: "AI Overview"
         url: /refs-ai-overview/
       - title: "NN Overview"
