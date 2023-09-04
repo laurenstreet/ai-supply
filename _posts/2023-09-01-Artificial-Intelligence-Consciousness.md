@@ -8,7 +8,7 @@ last_modified_at: 2023-09-03
 
 Recently I've been reading an interesting report on consciousness in artificial intelligence (AI) by Patrick Butlin ([Future of Humanity Institute](https://www.fhi.ox.ac.uk/)), Robert Long ([Center for AI Safety](https://www.safe.ai/)), et al. [[1]](https://arxiv.org/abs/2308.08708).  
 
-In this report, the authors attempt to measure the consciousness of current AI systems by testing whether these systems have certain properties that are typically present in systems with consciousness.  These properties, dubbed "indicator" properties, were extracted, by the authors, from leading neuroscientific theories of and ideas about consciousness.
+In this report, the authors attempt to measure the consciousness of current AI systems by testing whether these systems have certain properties that are typically present in systems with consciousness.  These properties, dubbed "indicator" properties, were extracted from leading neuroscientific theories of and ideas about consciousness.
 
 These indicator properties are present in systems with human or animal consciousness, but don't necessarily indicate consciousness.  For example, while these properties may be present in humans, any one property isn't necessarily enough for consciousness, while some properties are much more telling of a conscious system than others.  The authors, therefore, are careful to note that in order to test consciousness with these properties, one has to analyze not only the number of properties present in a given system, but also which properties are present in combination.  
 
@@ -18,10 +18,10 @@ There are also the moral considerations that arise.  We are at a stage in our te
 
 The study is based on three main postulates:
 1. computational functionalism
-  - mental states arises from the performance of the correct computations in the correct order (these performances are necessary and sufficient for consciousness) 
+  - mental states arise from the performance of the correct computations in the correct order (these performances are necessary and sufficient for consciousness) 
   - if computational functionalism is not true, consciousness in AI systems may not be possible
 2. there is empirical evidence for current neuroscientific theories of and ideas about consciousness
-3. the functions used to describe consciousness in neuroscientific theories can be used to test consciousness in AI systems (the authors use a "theory-heavy" approach rather than rely on behavioural tests which give false positives for unconscious AI systems that can mimic conscious behavior [[2]](https://aeon.co/essays/to-understand-ai-sentience-first-understand-it-in-animals))
+3. the functions used to describe consciousness in neuroscientific theories can be used to test consciousness in AI systems (the authors use a "theory-heavy" approach rather than rely on behavioural tests which can give false positives for unconscious AI systems that can mimic conscious behavior [[2]](https://aeon.co/essays/to-understand-ai-sentience-first-understand-it-in-animals))
 
 Relying on these postulates, the authors then claim that consciousness in AI systems can be tested through the consideration of how many indicator properties (and in what combinations) are present in the system, how confident one is in the theory or idea of consciousness from which the indicator properties are extracted, and how confident one is in the tenet of computational functionalism.
 
@@ -41,7 +41,7 @@ There are many interesting indicator properties discussed and analyzed in the st
   - AE-1: Agency: Ability to pursue goals from feedback and selection of outputs
   - AE-2: Embodiment:  Modeling output-input contingencies for perception or control
 
-# Theories, ideas about consciousness
+# Theories and ideas about consciousness
 
 Now that we have a summary of the indicator properties that were extracted from these theories and ideas, let's try to understand a bit more where these properties come from.
 
