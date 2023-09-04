@@ -12,9 +12,9 @@ In this report, the authors attempt to measure the consciousness of current AI s
 
 These indicator properties are present in systems with human or animal consciousness, but don't necessarily indicate consciousness.  For example, while these properties may be present in humans, any one property isn't necessarily enough for consciousness, while some properties are much more telling of a conscious system than others.  The authors, therefore, are careful to note that in order to test consciousness with these properties, one has to analyze not only the number of properties present in a given system, but also which properties are present in combination.  
 
-Ultimately, the authors concluded that no current AI system has enough indicator properties (and in the right combination) to deem it conscious.  However, they claim that many of the indicator properties should be programmable into AI systems with our current techonoglogy.  This conclusion brings about a sense of urgency for the further analysis of consciousness in AI systems and the evolution of theories and means used to test consciousness.  
+Ultimately, the authors concluded that no current AI system has enough indicator properties (and in the right combination) to deem it conscious.  However, they claim that many of the indicator properties should be programmable into AI systems with our current technology.  This conclusion brings about a sense of urgency for the further analysis of consciousness in AI systems and the evolution of theories and means used to test consciousness.  
 
-There are also the moral considerations that arise.  We are at a stage in our technological development where potentially conscious systems can be made artificially, or at least unconscious systems that seem conscious.  It can be asked, then, what can happen when people under- or overattribute consciousness to AI systems?
+There are also the moral considerations that arise.  We are at a stage in our technological development where potentially conscious systems can be made artificially, or at least unconscious systems that seem conscious.  It can be asked, then, what can happen when people under- or over-attribute consciousness to AI systems?
 
 The study is based on three main postulates:
 1. computational functionalism
@@ -23,7 +23,7 @@ The study is based on three main postulates:
 2. there is empirical evidence for current neuroscientific theories of and ideas about consciousness
 3. the functions used to describe consciousness in neuroscientific theories can be used to test consciousness in AI systems (the authors use a "theory-heavy" approach rather than rely on behavioural tests which give false positives for unconscious AI systems that can mimic conscious behavior [[2]](https://aeon.co/essays/to-understand-ai-sentience-first-understand-it-in-animals))
 
-Relying on these postulates, the authors then claim that consciousness in AI systems can be tested through the consideration of how many indicator properties (and in what combinations) are present in the system, how confident one is in the theory or idea of consciousness from which the indicator properties are extracted, and how confident one is in the tenet of compuational functionalism.
+Relying on these postulates, the authors then claim that consciousness in AI systems can be tested through the consideration of how many indicator properties (and in what combinations) are present in the system, how confident one is in the theory or idea of consciousness from which the indicator properties are extracted, and how confident one is in the tenet of computational functionalism.
 
 # Indicator properties summary
 
@@ -39,7 +39,7 @@ There are many interesting indicator properties discussed and analyzed in the st
   - GWT-4: Global workspace with state-dependent attention in order to query modules to perform tasks
 - Agency and Embodiment (AE)
   - AE-1: Agency: Ability to pursue goals from feedback and selection of outputs
-  - AE-2: Embodiment:  Modeling output-input contigencies for perception or control
+  - AE-2: Embodiment:  Modeling output-input contingencies for perception or control
 
 # Theories, ideas about consciousness
 
@@ -49,9 +49,9 @@ Now that we have a summary of the indicator properties that were extracted from 
 
 RPT is a theory of the perceptual areas of the brain (e.g. visual) and seeks to explain what makes a state conscious and what makes a state unconscious.  Through analysis and testing of this theory it's claimed that in order for a stimulus to be visually conscious, for example, a particular visual process needs to happen.  A stimulus can cause activity in the visual areas, however it doesn't necessarily become visually conscious.  Rather, the stimulus needs to be strong enough in order to trigger the necessary means for consciousness: recurrent processing resulting in unified representations of information.
 
-The authors make the distinction between two different types of recurrent processing, namely implementational and algorithmic.  Implementational reccurent processing is the type of processing utilized by our brains.  Signals that are sent to individual neurons are affected by earlier neuronal outputs due to feedback loops.  In this case, one individual neuron can have a input signal that depends on its earlier output signal.
+The authors make the distinction between two different types of recurrent processing, namely implementational and algorithmic.  Implementational recurrent processing is the type of processing utilized by our brains.  Signals that are sent to individual neurons are affected by earlier neuronal outputs due to feedback loops.  In this case, one individual neuron can have a input signal that depends on its earlier output signal.
 
-This type of processing can be mimiced with a suitable feedforward network in which multiple layers in different regions of the network share weights.  In this case, the signal output of one layer of the network can affect multiple layers after it due to the sharing of weights (or, in a sense, signal information).  These layers will then have a signal input which, in a way, depends on its earlier output signal (since it shared information with the earlier layer sharing its weights).  The authors take the position that algorithmic recurrence (rather than the stronger condition of implementation recurrence) is enough for consiousnes, bringing us to the first indicator property for RPT: 
+This type of processing can be mimicked with a suitable feedforward network in which multiple layers in different regions of the network share weights.  In this case, the signal output of one layer of the network can affect multiple layers after it due to the sharing of weights (or, in a sense, signal information).  These layers will then have a signal input which, in a way, depends on its earlier output signal (since it shared information with the earlier layer sharing its weights).  The authors take the position that algorithmic recurrence (rather than the stronger condition of implementation recurrence) is enough for consciousnes, bringing us to the first indicator property for RPT: 
 
 ### RPT-1: Input modules using at least algorithmic recurrence
 
@@ -67,7 +67,7 @@ As stated earlier, RPT is a theory of the perceptual areas of our brain (typical
 
 ### RPT examples
 
-Recurrent neural networks, long short-term memory networks, and gated recurrent unit networks are all existing systems with indicator property RPT-1.  Deep convolutional neural networks (DCNNs) have been used for sucessful object recognition [[9]](https://www.pnas.org/doi/full/10.1073/pnas.1905544116), however it's not clear whether these systems are good models for human vision [[10]](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/deep-problems-with-neural-network-models-of-human-vision/ABCE483EE95E80315058BB262DCA26A9) or whether the ability for these systems to recognize objects is due to their ability to generate unified representations of information or some other process.
+Recurrent neural networks, long short-term memory networks, and gated recurrent unit networks are all existing systems with indicator property RPT-1.  Deep convolutional neural networks (DCNNs) have been used for successful object recognition [[9]](https://www.pnas.org/doi/full/10.1073/pnas.1905544116), however it's not clear whether these systems are good models for human vision [[10]](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/deep-problems-with-neural-network-models-of-human-vision/ABCE483EE95E80315058BB262DCA26A9) or whether the ability for these systems to recognize objects is due to their ability to generate unified representations of information or some other process.
 
 ## GWT
 
@@ -109,7 +109,7 @@ Agency is something that seems to arise in conscious systems.  The authors seem 
 
 An agent learns to how pursue goals through feedback mechanisms that give preference to actions that help the pursuit.  An embodied agent can further sense or use motor control to affect their environment and has some model of how their outputs affect their inputs which includes some systematic effects.  This gives us the final indicator for AE:
 
-### AE-2 Embodiment:  Modeling output-input contigencies and some systematic effects for perception or control
+### AE-2 Embodiment:  Modeling output-input contingencies and some systematic effects for perception or control
 
 This output-input model for embodied agents is particularly important for understanding differences between changes that happen inside and those that happen outside the system. 
 
@@ -121,9 +121,9 @@ Agency is typically an explicit goal of reinforcement learning (RL) systems in w
 
 Of course, with the creation of any new technology comes some ethical considerations, but here we're talking about potentially making machines conscious, arguably bringing a form of life into being.  If, on the other hand, it's not possible to create consciousness in machines, unconscious machines can be made to seem very conscious.
 
-The authors, then, note two main categories of ethical considerations: overattribution and underattribution of consciousness to AI.
+The authors, then, note two main categories of ethical considerations: over-attribution and under-attribution of consciousness to AI.
 
-The risk that we'll attribute consciousness to unconscious AI systems is more likely, especially with large language models [[17]](https://arxiv.org/abs/2305.16367).  While the risk of underattributed consciousness is also plausible given that conscious AI systems may have completely different modes of being than we [[18]](https://nickbostrom.com/papers/digital-minds.pdf).  
+The risk that we'll attribute consciousness to unconscious AI systems is more likely, especially with large language models [[17]](https://arxiv.org/abs/2305.16367).  While the risk of under-attributed consciousness is also plausible given that conscious AI systems may have completely different modes of being than we [[18]](https://nickbostrom.com/papers/digital-minds.pdf).  
 
 One way to combat both possibilities is to better understand when a system is conscious or not.
 
