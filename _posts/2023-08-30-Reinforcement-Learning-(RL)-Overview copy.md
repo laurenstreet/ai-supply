@@ -1,14 +1,14 @@
 ---
-title: "Reinforcement Learning (RL) Overview"
+title: "Reinforcement Learning Overview"
 permalink: /rl-overview/
 date: 2023-08-30
 classes: wide
-last_modified_at: 2023-08-30
+last_modified_at: 2023-09-01
 header:
   teaser: https://github.com/laurenstreet/ai-supply/blob/main/assets/images/reinforce-learn.png?raw=true
 ---
 
-Below shows the general structure of an RL alogrithm:
+Below shows the general structure of a reinforcement learning (RL) alogrithm:
 
 ![Reinforcement Learning Structure](https://github.com/laurenstreet/ai-supply/blob/main/assets/images/reinforce-learn.png?raw=true "Reinforcement Learning Structure")
 

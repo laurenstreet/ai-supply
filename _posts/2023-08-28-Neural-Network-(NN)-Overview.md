@@ -1,14 +1,14 @@
 ---
-title: "Neural Network (NN) Overview"
+title: "Neural Network Overview"
 permalink: /nn-overview/
 date: 2023-08-28
 classes: wide
-last_modified_at: 2023-08-30
+last_modified_at: 2023-09-01
 header:
   teaser: https://github.com/laurenstreet/ai-supply/blob/main/assets/images/neural-nets.png?raw=true
 ---
 
-Below is an image of an NN made up of an input layer, two hidden layers, and an output layer.
+Below is an image of a neural network (NN) made up of an input layer, two hidden layers, and an output layer.
 
 ![Example Neural Network](https://github.com/laurenstreet/ai-supply/blob/main/assets/images/neural-nets.png?raw=true "Example Neural Network")
 

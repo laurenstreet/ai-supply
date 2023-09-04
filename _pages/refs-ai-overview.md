@@ -1,5 +1,5 @@
 ---
-title: "References for Artificial Intelligence (AI) Overview"
+title: "References for Artificial Intelligence Overview"
 permalink: /refs-ai-overview/
 ---
 
