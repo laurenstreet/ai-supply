@@ -15,6 +15,8 @@ posts:
         url: /ai-conscious/
       - title: "AI Overview"
         url: /ai-overview/
+      - title: "DM Overview"
+        url: /dm-overview/
       - title: "NN Overview"
         url: /nn-overview/
       - title: "RL Overview"
@@ -25,6 +27,8 @@ posts:
         url: /refs-ai-conscious/
       - title: "AI Overview"
         url: /refs-ai-overview/
+      - title: "DM Overview"
+        url: /dm-overview/
       - title: "NN Overview"
         url: /refs-nn-overview/
       - title: "RL Overview"

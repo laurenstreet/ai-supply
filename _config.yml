@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 minimal_mistakes_skin: dark
 search: true
 teaser: "/assets/images/space.png"
-logo: "/assets/images/animaparty.png"
+logo: "/assets/images/ai-supply.png"
 
 atom_feed:
   hide: true
